@@ -1,0 +1,13 @@
+﻿  interpolate.cpp
+  interpolator.cpp
+  motion.cpp
+  performanceCounter.cpp
+  posture.cpp
+  quaternion.cpp
+  skeleton.cpp
+  transform.cpp
+  vector.cpp
+  Generating code
+  All 241 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  interpolate.vcxproj -> D:\USC\Computer Animation and Simulation\HW2\csci520-assignment2-startercode\IDE-starter\VS2017\Release\interpolate.exe
